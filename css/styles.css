@@ -9,7 +9,7 @@ h1 {
   font-size: 450%;
   margin-top: 0;
   line-height: 2;
-  color: #66BFBF;
+  color: #FFA500;
   font-family: Helvetica, cursive;
 }
 
@@ -39,13 +39,13 @@ hr {
   margin: 100px auto;
   border-style: none;
   border-top-style: dotted;
-  border-color:#66BFBF;
+  border-color:#FFA500;
   border-width:5px;
   width: 50%;
 }
 
 .iampro {
-  color: #66BFBF;
+  color: #FFA500;
   font-weight: normal;
 }
 
@@ -70,7 +70,7 @@ hr {
 .bottom {
  font-family: Helvetica, cursive;
  padding: 50px 0 20px;
- background-color: #66BFBF;
+ background-color: #FFA500;
 }
 
 .profile {
