@@ -10,7 +10,7 @@ h1 {
   margin-top: 0;
   line-height: 2;
   color: #66BFBF;
-  font-family: Sacramento, Helvetica, cursive;
+  font-family: Helvetica, cursive;
 }
 
 h2 {
@@ -18,7 +18,7 @@ h2 {
 }
 
 p {
-  font-family: Pacifico, Helvetica, cursive;
+  font-family: Helvetica, cursive;
   line-height: 2;
 }
 
@@ -63,22 +63,18 @@ hr {
 }
 
 .middle {
-  font-family: Sacramento, Helvetica, cursive;
+  font-family: Helvetica, cursive;
   margin: 100px auto;
 }
 
 .bottom {
- font-family: Sacramento, Helvetica, cursive;
+ font-family: Helvetica, cursive;
  padding: 50px 0 20px;
  background-color: #66BFBF;
 }
 
 .profile {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 250px;
-  height: 250px;
+  border-radius: 50%;
 }
 
 .skill-row {
@@ -120,4 +116,9 @@ hr {
   position: absolute;
   right: 300px;
   top: 40px;
+}
+
+.downloadlink {
+  position: absolute;
+  font-family: Helvetica;
 }
