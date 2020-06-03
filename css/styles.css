@@ -74,7 +74,9 @@ hr {
 }
 
 .profile {
-  border-radius: 50%;
+  display: block;
+  width: 250px;
+  height: 250px;
 }
 
 .skill-row {
